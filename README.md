@@ -1,6 +1,6 @@
 <h1 align= "center">Hi there im mcar03👋</h1>
 
-![ imagen de mi logo]("https://github.com/mcar03/mcar03/blob/dev/Portada%20Perfil%20de%20Linkedin%20Profesional%20Moderno%20Oscuro.png")
+<img src= "C:\Users\irnaq\Desktop\readme github\mcar03\Portada Perfil de Linkedin Profesional Moderno Oscuro.png"></img>
 
 I'm passionate about technology and software development. I Specialize in **Backend Development**, **Full Stack Development**, and **Multiplatform Application Development**. Welcome to my GitHub profile!
 
